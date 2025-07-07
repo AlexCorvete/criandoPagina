@@ -1,11 +1,21 @@
 body {
-    background: #CCCCCC;
+    
 }
 
-h1 {
-    text-align: center;
-    background: #CCCCCC;
+#nucleo {
+    width: 100%;
+}
 
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+.titulo-principal{
+    padding: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
 }
 
 p {
@@ -18,4 +28,26 @@ p {
 
 em strong {
     color: red;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+}
+
+.imagemAtendimento {
+    width: 50%;
 }
