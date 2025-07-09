@@ -74,3 +74,17 @@ nav a:hover {
 .servicos li:active {
     border-color: #088C19;
 }
+
+footer {
+    
+    text-align: center;
+    background: url(recursos/textura-sem-emenda-verde-do-teste-padrao-da-placa-de-circuito-fundo-alta-tecnologia-no-conceito-da-informatica-digital-ilustracao-abstrata-700-137875011.jpg);
+    padding: 40px 0;
+}
+
+footer p {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+
+}
